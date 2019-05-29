@@ -1,3 +1,0 @@
-git push -f origin master
-git pull -f origin master
-git pull origin master --allow-unrelated-histories
